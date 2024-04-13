@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DFR0768-DFROBOT-Symbol-Kicad-563352")(type "KiCad")(uri "${KIPRJMOD}/lib/DFR0768-DFROBOT-Symbol-Kicad-563352")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo/logo.pretty")(options "")(descr ""))
+)
