@@ -23,14 +23,14 @@ En combinant une boîte qui diffuse le cri d'un oiseau avec des excursions ornit
 Le PCB est réalisé avec [KiCAD](https://www.kicad.org/). Les projet se trouve dans le dossier [kicad](./kicad)
 | | |
 | --- | --- |
-| <img src="./images/schema.png" height="400">| <img src="./images/footprint.png" height="400">!> |
+| <img src="./images/schema.png" height="300">| <img src="./images/footprint.png" height="300"> |
 
 # Assemblage
 Le boîtier est réaliser avec [OpenSCAD](https://openscad.org/), à l'aide du repo [OpenSCADBoxes](https://github.com/daci6920/OpenSCADBoxes/tree/master). Le boîtier est découpé dans du multipli 4mm à l'aide d'une découpeuse laser et de [fichier de design](./enclosure/box.svg).
 
 | | | | 
 | --- | --- | --- |
-| <img src="./images/assembly1.jpg" height="400">| <img src="./images/assembly2.jpg" height="400">  | <img src="./images/assembly3.jpg" height="400">|
+| <img src="./images/assembly1.jpg" height="300">| <img src="./images/assembly2.jpg" height="300">  | <img src="./images/assembly3.jpg" height="300">|
 
 :camera: [Raphaël Monnard](https://github.com/raphaelmonnard/)
 
