@@ -17,3 +17,26 @@ En combinant une boîte qui diffuse le cri d'un oiseau avec des excursions ornit
 |![Bouton-arcade](./images/R13-507.jpg)|Le bouton de pression mini R13-507 de Sesaat est conçu pour offrir une fonction de réinitialisation fiable dans les panneaux électriques de 16 mm. Avec ses 2 broches, il offre une puissance de 3A à 250VAC, garantissant une performance sécurisée et durable. Parfait pour les applications nécessitant un bouton compact et fiable.
 |![bouton_led](./images/bouton_led.jpg)|Ce bouton poussoir LED transparent offre un éclairage coloré et interactif pour les enfants. Fabriqué en plastique ABS de haute qualité, il est durable et résistant aux chocs.
 |![jst](./images/jst.jpg)|Le connecteur JST PH2 est une solution fiable pour les connexions électriques. Avec ses fils pré-soudés et son format compact, il offre une installation facile et sécurisée. Parfait pour les projets électroniques nécessitant une connexion stable et durable.
+|![spacers](./images/spacers.png)| Un kit de vis d'espacement à tête plate hexagonale, M2, fabriqué en plastique et nylon, incluant des écrous assortis.
+
+# PCB
+Le PCB est réalisé avec [KiCAD](https://www.kicad.org/). Les projet se trouve dans le dossier [kicad](./kicad)
+| | |
+| --- | --- |
+| <img src="./images/schema.png" height="400">| <img src="./images/footprint.png" height="400">!> |
+
+# Assemblage
+Le boîtier est réaliser avec [OpenSCAD](https://openscad.org/), à l'aide du repo [OpenSCADBoxes](https://github.com/daci6920/OpenSCADBoxes/tree/master). Le boîtier est découpé dans du multipli 4mm à l'aide d'une découpeuse laser et de [fichier de design](./enclosure/box.svg).
+
+| | | | 
+| --- | --- | --- |
+| <img src="./images/assembly1.jpg" height="400">| <img src="./images/assembly2.jpg" height="400">  | <img src="./images/assembly3.jpg" height="400">|
+
+:camera: [Raphaël Monnard](https://github.com/raphaelmonnard/)
+
+# Son
+Les sons previennent du site https://www.vogelwarte.ch/ - La Station ornithologique suisse
+
+# Evènement
+[Muzoo](https://muzoo.ch/evenement/reveil-oiseaux-2024/): Le réveil des oiseaux | Le 5 mai 2024  
+<img src="https://muzoo.ch/wp-content/uploads/2024/03/RdO_2024-1448x2048-1.jpg " width="300">
